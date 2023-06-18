@@ -4,7 +4,7 @@ This repository contains a collection of C++ exercises suitable for beginners. T
 
 ## Table of Contents
 - [Exercise 1: Hello World](Exercise1.cpp)
-- [Exercise 2: Sum of Two Numbers](Exercise2.md)
+- [Exercise 2: Sum of Two Numbers](Exercise2.cpp)
 
 
 ## Instructions
