@@ -3,7 +3,7 @@
 This repository contains a collection of C++ exercises suitable for beginners. These exercises are designed to help you practice and strengthen your programming skills in C++. Each exercise focuses on a specific concept or problem-solving technique.
 
 ## Table of Contents
-- [Exercise 1: Hello World](Exercise1.md)
+- [Exercise 1: Hello World](Exercise1.cpp)
 - [Exercise 2: Sum of Two Numbers](Exercise2.md)
 
 
