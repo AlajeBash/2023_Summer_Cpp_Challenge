@@ -123,6 +123,9 @@ Feel free to explore, modify, and expand upon these exercises to further improve
 ## Contributing
 Contributions to this repository are welcome! If you have additional C++ exercises or improvements to existing exercises, please feel free to submit a pull request.
 
+## Author
+[Bashir Sani](https://github.com/AlajeBash)
+
 ## License
 This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
